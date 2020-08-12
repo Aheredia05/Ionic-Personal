@@ -21,10 +21,13 @@ Se presentan los datos con los cursos realizados
 
 ## Direccion
 se pone la direccion del propietario con un enlace a google map
+##
 ![reglas](https://github.com/Aheredia05/Ionic-Personal/blob/master/Img/3.png)
-**GOOGLE**
+#**GOOGLE**
+#
 ![reglas](https://github.com/Aheredia05/Ionic-Personal/blob/master/Img/4.png)
 
 ## Habilidades
 Diferentes lenguajes conocidos
+#
 ![reglas](https://github.com/Aheredia05/Ionic-Personal/blob/master/Img/5.png)
