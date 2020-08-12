@@ -11,10 +11,12 @@ Realizar una aplicación con ionic sobre su hoja de vida, que me permit navegar 
 Se presenta las capturas de la app creada para visualizar una hoja de vida que permita navegar entre tabs, para este caso se crean 4 tabs para que precente las diferentes opciones.
 ## Horario de clases
 Se presenta el horario de clases
+##
 ![horario](https://github.com/Aheredia05/Ionic-Personal/blob/master/Img/1.png)
 
 ## Informacion Personal
 Se presentan los datos con los cursos realizados
+##
 ![infp](https://github.com/Aheredia05/Ionic-Personal/blob/master/Img/2.png)
 
 ## Direccion
